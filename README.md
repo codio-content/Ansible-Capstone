@@ -1,0 +1,1 @@
+# Ansible-wordpress-demo-delete
